@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Andrii Yasnohorodskyi](https://up.htmlacademy.ru/htmlcss/29/user/817957).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Колесников](https://htmlacademy.ru/profile/m1roku).
 
 ---
 
